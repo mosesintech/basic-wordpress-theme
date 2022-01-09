@@ -6,3 +6,4 @@ register_nav_menus(
         'menu-2' => esc_html__('Footer Menu', 'onlyfencing'),
     )
 );
+add_theme_support('post-thumbnails');
